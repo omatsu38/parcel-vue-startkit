@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./app.js","dynamic":true}],"generated":{"html":"<!doctype html>\n\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <title>Parcelでvueを動かしたい</title>\n</head>\n\n<body>\n  <div id=\"app\"></div>\n  <script src=\"/dist/ce5bf64c9d26ae64621b9cc25e3d55a4.js\"></script>\n</body>\n</html>"},"hash":"16d8d29875b8cb8b134466a418a21323"}
